@@ -1,0 +1,36 @@
+button {
+  text-align: center;
+  font-size: 25px;
+  width: 50px;
+  height: 50px;
+  margin-top: 3px;
+}
+
+.operator {
+  color: blue;
+  font-weight: bold;
+}
+
+.equals {
+  color: blue;
+  font-weight: bold;
+}
+
+.clear {
+  text-align: center;
+  font-size: 25px;
+  width: 211px;
+  height: 50px;
+  margin-top: 3px;
+}
+
+.results {
+  display: inline-block;
+  border: 1px solid black;
+  text-align: right;
+  font-size: 25px;
+  width: 211px;
+  height: 50px;
+  margin-top: 100px;
+  margin-left:141px;
+}
